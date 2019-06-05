@@ -2,7 +2,7 @@
 # Santander-Customer-Transaction
   
 ### Link to the HTML version of the notebook:
-https://abfu.github.io/santander_customer_transaction/SCTpred
+https://nbviewer.jupyter.org/github/abfu/santander_customer_transaction/blob/master/SCTpred.ipynb
 
 ### Link to the Kaggle competition:
 https://www.kaggle.com/c/santander-customer-transaction-prediction/overview
