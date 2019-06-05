@@ -2,7 +2,7 @@
 # Santander-Customer-Transaction
   
 
-### Link to the Kaggle competition:
+This project was part of the Kaggle competition 'Santander Customer Transaction Prediction'
 https://www.kaggle.com/c/santander-customer-transaction-prediction/overview
 
 Table of Contents
